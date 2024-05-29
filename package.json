@@ -1,0 +1,16 @@
+{
+    "type": "module",
+    "name": "consumir-api-externa",
+    "version": "1.0.0",
+    "description": "criando projeto para consumir api externa",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Cícero Martins",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.7.2"
+    }
+}
